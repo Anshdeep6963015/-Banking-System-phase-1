@@ -1,0 +1,3 @@
+2025-08-02T21:41:50.895780900 | ID: TX9001 | Type: Deposit | From: AC5001 | To: - | Amount: ₹10000.00 | Note: Self deposit
+2025-08-02T21:42:28.226410200 | ID: TX9002 | Type: Withdraw | From: AC5001 | To: - | Amount: ₹90000.00 | Note: Self withdrawal
+2025-08-02T21:42:47.721383400 | ID: TX9003 | Type: Deposit | From: AC5001 | To: - | Amount: ₹100000.00 | Note: Self deposit
