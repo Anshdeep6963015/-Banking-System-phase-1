@@ -5,6 +5,7 @@ This is **Phase 1** of the Bank Management System project built using **Java**. 
 ---
 ## 📁 Project Structure
 
+```
 BankMaster/
 ├── model/
 │   ├── Account.java
@@ -24,6 +25,8 @@ BankMaster/
 │   └── CustomException.java
 ├── Main.java
 └── transaction.txt
+```
+
 
 
 ## 👤 Roles Supported
